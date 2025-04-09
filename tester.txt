@@ -1,0 +1,6 @@
+degreeList
+courseList
+course1,#B8B175
+course2,#B8B175
+todoList
+course1,'project1',2024-17-Jul,Not Started, 100, Project, 100
