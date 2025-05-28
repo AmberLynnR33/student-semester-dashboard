@@ -1,0 +1,4 @@
+item,course,status,content_type,due,grade,weight,courses,courses_cred_num,courses_grades,programs_req,programs_name,programs_cred_needed,programs_courses_apply
+hello,CourseA,Done,Assignment,2025/06/30,80,20,CourseA,0.5,-1,req1,ProgramA,2,CourseA
+,,,,,,,CourseB,0.5,-1,req2,ProgramA,1,
+,,,,,,,,,,re3,ProgramA,0.5,
